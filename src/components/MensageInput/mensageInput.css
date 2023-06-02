@@ -1,0 +1,37 @@
+.inputMensage {
+    position: absolute;
+    top: 40rem;
+    background-color:#F5EDF7;
+    width: 60rem;
+    border-radius: 24px;
+    left: 6rem;
+}
+.buttonPublish{
+    background-color: #00875F;
+    border-radius: 14px;
+    position: absolute;
+    top: 40rem;
+    width: 8rem;
+    height: 3rem;
+    left: 80rem;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.publishMensage {
+    position: relative;
+    color: white;
+    left: 45px;
+}
+.mensage{
+    left: 24px;
+    position: relative;
+}
+.mensageCellphone{
+    left: 10rem;
+    position: relative;
+}
+.mensageShield{
+    left: 15rem;
+    position: relative;
+}

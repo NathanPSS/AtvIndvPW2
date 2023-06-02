@@ -1,0 +1,12 @@
+.img {
+    width: 25rem;
+    height: 10rem;
+    z-index: -1;
+    position: absolute;
+}
+
+.containerCar{
+    position: relative;
+    left: 8rem;
+    bottom: 10rem;
+}

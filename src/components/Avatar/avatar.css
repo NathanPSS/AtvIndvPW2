@@ -1,0 +1,45 @@
+.imgAvatar {
+    width: 10rem;
+    height: 10rem;
+    position: relative;
+}
+
+.mainContainer {
+    display: grid;
+    grid-template-columns: 100%;
+    position: relative;
+    left: 72px;
+    width: 110rem;
+    z-index: 1;
+    top: 10rem;
+}
+.starContainer{
+    margin-top: -30px;
+    display: flex;
+    width: 5%;
+    left: 2rem;
+    position: relative;
+    justify-content: center; 
+    align-items: center;
+    z-index: 2;
+}
+.number {
+    position: relative;
+    color: white;
+
+}
+.nameAvatar{
+    position: relative;
+    left: 2.5rem;
+    width: 10%;
+}
+.carTitle{
+    position: absolute;
+    left: 80%;
+}
+.carName{
+    position: absolute;
+    left: 80%;
+    font-size: 20px;
+    top: 3rem;
+}

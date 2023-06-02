@@ -1,0 +1,14 @@
+.containerApp {
+    display: grid;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+
+}
+.containerMensages{
+    top: 23rem;
+    position: relative;
+    display: grid;
+    grid-template-rows: min-content;
+    gap: 35px;
+}

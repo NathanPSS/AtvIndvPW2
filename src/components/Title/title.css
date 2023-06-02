@@ -1,0 +1,10 @@
+.containerTitle {
+    display: grid;
+    top: 18%;
+    position: absolute;
+    left: 72px;
+    width: 100%;
+}
+.name {
+    color: #864293;
+}
